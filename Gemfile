@@ -7,6 +7,7 @@ gem 'rails', '3.0.11'
 
 gem 'sqlite3'
 gem 'locomotive_cms', :git => 'git://github.com/locomotivecms/engine.git', :require => 'locomotive/engine'
+gem 'unicorn', :group => 'development'
 
 # Use unicorn as the web server
 # gem 'unicorn'

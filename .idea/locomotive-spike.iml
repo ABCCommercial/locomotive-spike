@@ -16,33 +16,94 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="railties (v3.0.11, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="json (v1.6.4, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailer-with-request (v0.3.0, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="Platform (v0.4.0, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jammit (v0.6.5, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v3.0.11, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v0.9.2.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="abstract (v1.0.0, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass (v3.1.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mongoid (v2.0.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="has_scope (v0.5.1, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="locomotive_cms (v1.0.0.rc1, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.12, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="crack (v0.1.8, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.0.21, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.5, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="warden (v1.0.6, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="locomotive_jammit-s3 (v0.5.4.4, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubycas-client (v2.3.8, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="formatador (v0.2.1, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.3, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v3.0.11, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.17.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="orm_adapter (v0.0.6, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bushido (v0.0.35, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-ssh (v2.3.0, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bcrypt-ruby (v2.1.4, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.31, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="thor (v0.14.6, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="builder (v2.1.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mail (v2.2.19, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="arel (v2.0.10, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-cache (v1.1, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="RedCloth (v4.2.8, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="open4 (v1.3.0, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="formtastic (v1.2.4, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bson (v1.3.1, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="highline (v1.6.9, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionpack (v3.0.11, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rails (v3.0.11, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.10, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="devise (v1.3.4, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="locomotive_liquid (v2.2.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="haml (v3.1.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sanitize (v2.0.3, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rest-client (v1.6.7, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="kgio (v2.7.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-mount (v0.6.14, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="delayed_job (v3.0.0, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="raindrops (v0.8.0, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="yui-compressor (v0.9.6, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="POpen4 (v0.1.4, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cells (v3.7.1, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.2.5, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="fog (v0.8.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.5.0, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="erubis (v2.6.6, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activeresource (v3.0.11, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailer (v3.0.11, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v0.9.5, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="carrierwave (v0.5.6, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rmagick (v2.12.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="railties (v3.0.11, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v1.6.4, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mimemagic (v0.1.8, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="kaminari (v0.13.0, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v0.9.2.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="abstract (v1.0.0, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cancan (v1.6.7, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.5.0, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="launchy (v0.3.7, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.5, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json_pure (v1.5.1, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="heroku (v1.19.1, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="unicorn (v4.1.1, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.17.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v0.14.6, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="excon (v0.6.6, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v2.1.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="responders (v0.6.4, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bson_ext (v1.3.1, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="inherited_resources (v1.1.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="httparty (v0.7.8, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mail (v2.2.19, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="dragonfly (v0.9.10, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="proxies (v0.2.1, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="s3 (v0.3.11, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="configuration (v1.3.1, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mongo (v1.3.1, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="arel (v2.0.10, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails (v3.0.11, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="custom_fields (v1.0.0.beta.25, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="devise_bushido_authenticatable (v1.0.0.alpha10, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.10, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="locomotive_mongoid_acts_as_tree (v0.1.5.7, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-hmac (v0.4.0, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="delayed_job_mongoid (v1.0.8, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mimetype-fu (v0.1.2, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="erubis (v2.6.6, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v3.0.11, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.5.7, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="actionmailer (v3.0.11, RVM: ruby-1.9.2-p290 [refinery]) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
